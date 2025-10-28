@@ -35,6 +35,7 @@ Password complexity directly increases security by resisting automated attacks.
 <br>
 Review: Using that password is like locking front door, but leaving the key under the mat. Tassword is of medium strength because it contains a dictionary word.
 <br>
+<br>
 Thousand of years
 <br>
 Review: Fantastic, using that password makes as secure as Fort Knox.
